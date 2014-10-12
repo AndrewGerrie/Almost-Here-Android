@@ -1,0 +1,1 @@
+include ':app', ':jcabi-http-1.8.2'
